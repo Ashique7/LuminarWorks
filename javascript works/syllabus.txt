@@ -1,0 +1,13 @@
+#Language Fundamemntals
+1.Coding standards
+2.Identifiers
+3.variables
+4.operators
+#flowControls
+1.decision making statements
+2.looping control statements 
+#functions
+1.arrow functions
+2.call stack
+#objects
+programs

@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(235, 247, 134);
+}
+.row1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+img{
+height: 300px;
+width: 300px;
+}
+.col1{
+    font-size: 20px;
+    width: 30%;
+}
+.col2{
+    font-size: 20px;
+    width: 70%;
+}
+.a1{
+    text-align: center;
+    background-color:rgb(122, 92, 206);
+    width: 300px;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.col3{
+    font-size: 20px;
+    padding: 20px;  
+    width: 48%;
+    font-size: 20px;
+    background-color: lightgreen;
+
+}
+.col4{ 
+    font-size: 20px;
+    padding: 20px;  
+    width: 48%;
+    background-color: lightgreen;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Zen+Kurenaido&display=swap');h1{
+    color: darkslateblue;
+}
+p{
+    color: darkslategray;
+}
+h3{
+    color: darkviolet;
+}
+ul{
+    color: dimgray;
+}
+ol{
+    color: forestgreen;
+}
+a{
+    color: gold;
+}
+th{
+    color: rgb(46, 16, 16);
+}
+td{
+    color: blue;
+}
+#c1{
+    color: burlywood;
+}
+header{
+    background-color: cadetblue;
+}
+
+p{
+    font-family: 'Oswald', sans-serif
+}
+footer{
+    background-color: rgb(228, 201, 92);
+}
+#c3{
+    font-family: 'Zen Kurenaido', sans-serif;
+}

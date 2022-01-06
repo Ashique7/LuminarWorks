@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
+#parent{
+    height: 690px;
+    width: 15%;
+    color: blanchedalmond;
+    background-color: rgb(0, 0, 0);
+    border: solid rgb(34, 32, 32) 1px;
+    padding: auto;
+    float: left;
+    padding: 20px;
+    
+}
+
+#child{
+    border: solid blanchedalmond 2px;
+    height: 25px;
+    width: 250px;
+    padding: 5px;
+    
+}
+div img{
+    width: 70%;
+    height: 280px;
+}

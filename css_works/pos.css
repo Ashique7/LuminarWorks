@@ -1,0 +1,41 @@
+.row{
+    border: solid violet 2px;
+    height: 500px;
+    width: 600px;
+    background-color: rgb(218, 175, 175);
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 100px;
+    border: solid 2px black;
+}
+.col-1{
+    position: absolute;
+    background-color: rgb(179, 255, 0);
+
+}
+.col-2{
+    position: absolute;
+    background-color: rgb(28, 28, 156);
+    left: 100px;
+    
+}
+.col-3{
+    position: absolute;
+    background-color: rgb(40, 197, 9);
+    left: 200px;
+    
+}
+.col-4{
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    left: 300px;
+    
+}
+body{
+    background-image: url(./godfather.jpg);
+    background-size: cover;
+     /* background-repeat: no-repeat; */
+
+}

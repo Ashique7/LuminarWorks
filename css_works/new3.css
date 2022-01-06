@@ -1,0 +1,13 @@
+div{
+    height: 338px;
+    width: 30%;
+    background-color: cornflowerblue;
+    border: solid navy 3px;
+    float: left;
+}
+div img{
+    width: 100%;
+}
+img{
+    width: 50%;
+}

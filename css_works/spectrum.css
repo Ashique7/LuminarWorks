@@ -1,0 +1,119 @@
+div{
+    height: 200px;
+    width: 150px;
+}
+body{
+    background-color: black;
+}
+#q1{
+    width: 400px;
+    height: 20px;
+    color: white;
+    margin-left: 650px;
+
+}
+#a1{
+    background-color: rgb(204, 119, 97);
+    margin-top: 50px;
+    margin-left: 400px;
+}
+#a2{
+    background-color: rgb(88, 62, 43);
+    margin-top: -199px;
+    margin-left: 580px;
+}
+#a3{
+    background-color: rgb(15, 134, 35);
+    margin-top: -199px;
+    margin-left: 760px;
+}
+#a4{
+    background-color: rgb(31, 71, 83);
+    margin-top: -199px;
+    margin-left: 940px;
+}
+#a5{
+    background-color: rgb(78, 138, 86);
+    margin-top: -199px;
+    margin-left: 1120px;
+}
+#b1{
+    background-color: rgb(4, 74, 87);
+    margin-top: 55px;
+    margin-left: 220px;
+}
+#b2{
+    background-color: rgb(131, 87, 56);
+    margin-top: -198px;
+    margin-left: 400px;
+}
+#b3{
+    background-color: rgb(43, 19, 126);
+    margin-top: -195px;
+    margin-left: 580px;
+}
+#b4{
+    background-color: rgb(117, 75, 44);
+    margin-top: -200px;
+    margin-left: 760px;
+}
+#b5{
+    background-color: rgb(26, 112, 105);
+    margin-top: -197px;
+    margin-left: 940px;
+}
+#b6{
+    background-color: rgb(151, 32, 121);
+    margin-top: -197px;
+    margin-left: 1120px;
+}
+#b7{
+    background-color: rgb(134, 28, 155);
+    margin-top: -197px;
+    margin-left: 1300px;
+}
+#c1{
+    background-color: rgb(91, 23, 117);
+    margin-top: 48px;
+    margin-left: 40px;
+}
+#c2{
+    background-color: rgb(21, 109, 48);
+    margin-top: -198px;
+    margin-left: 220px;
+}
+#c3{
+    background-color: rgb(119, 19, 74);
+    margin-top: -198px;
+    margin-left: 400px;
+}
+#c4{
+    background-color: rgb(18, 94, 34);
+    margin-top: -198px;
+    margin-left: 580px;
+}
+#c5{
+    background-color: rgb(129, 136, 180);
+    margin-top: -198px;
+    margin-left: 760px;
+}
+#c6{
+    background-color: rgb(52, 86, 138);
+    margin-top: -198px;
+    margin-left: 940px;
+}
+#c7{
+    background-color: rgb(65, 156, 85);
+    margin-top: -198px;
+    margin-left: 1120px;
+}
+#c8{
+    background-color: rgb(177, 63, 152);
+    margin-top: -198px;
+    margin-left: 1300px;
+}
+#c9{
+    background-color: rgb(191, 230, 21);
+    margin-top: -198px;
+    margin-left: 1480px;
+}

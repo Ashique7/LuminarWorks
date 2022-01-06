@@ -1,0 +1,17 @@
+.parent{
+    border: solid rgb(20, 26, 14) 2px;
+    height: 400px;
+    width: 50%;
+    background-color: lightcoral;
+    position: absolute;
+}
+.child{
+    position: relative;
+    left: 20%;
+    height: 200px;
+    width: 30%;
+    background-color: rgb(161, 13, 13);
+}
+body{
+    background-color: lightseagreen;
+}

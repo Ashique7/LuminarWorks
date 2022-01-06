@@ -1,0 +1,22 @@
+#row{
+    height: 800px;
+    width: 100%;
+    background-color: #1f2520;
+    display: flex;;
+    justify-content: space-around;
+}
+.col{
+    color: rgb(6, 46, 5);
+    border: solid #fefff8 2px;
+    margin-top: 50px;
+    padding: 50px;
+    height: 600px;
+    width: 12%;
+    background-color: #daee6a;
+    
+}
+img{
+    border: solid #132c1f 2px;
+    height: 350px;
+    width: 200px;
+}

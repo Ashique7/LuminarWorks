@@ -1,0 +1,19 @@
+div{
+    
+    height: 600px;
+    width: 20%;
+    border: solid rgb(5, 97, 5) 2px;
+    float: left;
+    color: rgb(11, 71, 11);
+    background-color: rgb(230, 255, 193);
+}
+h3{
+    margin-left: 25px;
+    height: 5px;
+    color: rgb(4, 54, 4);
+}
+div img{
+    margin-left: 25px;
+    width: 80%;
+    height: 323px;
+}

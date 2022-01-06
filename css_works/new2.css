@@ -1,0 +1,19 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+#c1{
+    background-color: brown;
+    margin-top: 50px;
+    margin-left: 100px;
+
+
+}
+#c2{
+    background-color: chartreuse;
+    margin-left: 350px;
+    margin-top: -199px;
+}
+h1{
+    text-align: center;
+}

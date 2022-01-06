@@ -1,0 +1,9 @@
+#parent{
+    height: 100px;
+    width: 400px;
+    background-color: lightseagreen;
+    position: sticky;
+    top: 50px;
+
+    
+}

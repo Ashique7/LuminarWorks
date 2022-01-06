@@ -1,0 +1,15 @@
+#b1{
+    color: rgb(41, 35, 10);
+    background-color: rgb(38, 150, 150);
+    height: 200px;
+    width: 400px;
+    border: darkblue solid 2px;
+}
+#b2{
+    color: darkgoldenrod;
+    background-color: darkgreen;
+    height: 200px;
+    width: 400px;
+    border: darkblue solid 2px;
+
+}
